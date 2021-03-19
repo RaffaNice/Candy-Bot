@@ -1,12 +1,14 @@
 # Candy-Bot
 
 
-##Bot WhatsApp
+#Bot WhatsApp
 
 
 #Termux
 
-##Cara Install
+#Cara Install
+
+
 1.Download Termux
 2.Buka
 3.pkg install git
